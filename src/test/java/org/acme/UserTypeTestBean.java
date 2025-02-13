@@ -19,6 +19,7 @@ public class UserTypeTestBean {
 
     public static final String ID_001 = "ID_001";
     public static final String STRING_FIELD_VALUE = "stringFieldValue";
+
     @Inject
     EntityManager em;
 
